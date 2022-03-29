@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/hooked-react-js/static/css/main.3201090c.css",
-    "main.js": "/hooked-react-js/static/js/main.6d90504f.js",
+    "main.js": "/hooked-react-js/static/js/main.f02aee14.js",
     "static/js/787.1477a74f.chunk.js": "/hooked-react-js/static/js/787.1477a74f.chunk.js",
     "static/media/logo.svg": "/hooked-react-js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hooked-react-js/index.html",
     "main.3201090c.css.map": "/hooked-react-js/static/css/main.3201090c.css.map",
-    "main.6d90504f.js.map": "/hooked-react-js/static/js/main.6d90504f.js.map",
+    "main.f02aee14.js.map": "/hooked-react-js/static/js/main.f02aee14.js.map",
     "787.1477a74f.chunk.js.map": "/hooked-react-js/static/js/787.1477a74f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3201090c.css",
-    "static/js/main.6d90504f.js"
+    "static/js/main.f02aee14.js"
   ]
 }
