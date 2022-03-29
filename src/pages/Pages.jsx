@@ -9,7 +9,7 @@ function Pages() {
 
   return (
     <Routes Location={location} key={location.pathname}>
-      <Route path="/" element={<Home />} />
+      <Route path="/hooked-react-js/" element={<Home />} />
       <Route path="/searched/:search" element={<Searched />} />
       <Route path="/cat/:category" element={<LoadFilteredMovies />} />
     </Routes>

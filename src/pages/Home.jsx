@@ -14,8 +14,8 @@ function Home() {
     fetch(MOVIE_API_URL)
       .then((response) => response.json())
       .then((jsonResponse) => {
-        // console.log(jsonResponse);
-        // console.log(jsonResponse.Search);
+        console.log(jsonResponse);
+        console.log(jsonResponse.Search);
         setMovies(jsonResponse.Search);
         setLoading(false);
       })

@@ -5,7 +5,7 @@ import {useNavigate} from "react-router-dom";
 function Header(props) {
   const navigate = useNavigate();
   const goToHome = (e) => {
-    navigate("/");
+    navigate("/hooked-react-js/");
   };
 
   return (
